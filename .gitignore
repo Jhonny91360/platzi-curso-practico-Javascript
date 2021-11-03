@@ -104,7 +104,7 @@ dist
 .tern-port
 
 # Ignoramos carpeta fotos como ejemplo del git ignore
-.fotos
+.fotos/
 
 #Ignoramos descarga del chorme
 .google-chrome-stable_current_amd64.deb
