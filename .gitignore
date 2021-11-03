@@ -105,3 +105,6 @@ dist
 
 # Ignoramos carpeta fotos como ejemplo del git ignore
 .fotos
+
+#Ignoramos descarga del chorme
+.google-chrome-stable_current_amd64.deb
