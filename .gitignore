@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Ignoramos carpeta fotos como ejemplo del git ignore
+.fotos
